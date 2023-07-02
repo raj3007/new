@@ -1,0 +1,35 @@
+.heading{
+    font-size: 2.5rem;
+}
+/* about */
+#pic{
+    flex-direction:column ;
+    align-items: center;
+}
+#pic img{
+    width:475x;
+    height:300px;
+}
+#intro h2{
+    text-align:center;
+    padding:10px;
+}
+/* CONtact */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.input{
+    width:60%;
+}
+#msg{
+    width: 63%;
+}
+#send{
+    width: 18%;
+}#extraa{
+    
+    right: 64%;
+    left: 36%;
+    
+  }
